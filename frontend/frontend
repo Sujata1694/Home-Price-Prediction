@@ -1,0 +1,10 @@
+<script>start("c:\\Users\\ankit\\OneDrive\\Documents\\Desktop\\Home-Price-Prediction1\\frontend\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("node_modules","node_modules",1,0,"0 B",1736262246,"1/7/25, 8:34:06 PM");</script>
+<script>addRow("public","public",1,0,"0 B",1736261860,"1/7/25, 8:27:40 PM");</script>
+<script>addRow("src","src",1,0,"0 B",1736261971,"1/7/25, 8:29:31 PM");</script>
+<script>addRow(".gitignore",".gitignore",0,310,"310 B",1736261816,"1/7/25, 8:26:56 PM");</script>
+<script>addRow("package-lock.json","package-lock.json",0,622720,"608 kB",1736263085,"1/7/25, 8:48:05 PM");</script>
+<script>addRow("package.json","package.json",0,814,"814 B",1736262236,"1/7/25, 8:33:56 PM");</script>
+<script>addRow("README.md","README.md",0,3359,"3.3 kB",1736261824,"1/7/25, 8:27:04 PM");</script>
+<script>addRow("tailwind.config.js","tailwind.config.js",0,163,"163 B",1736262122,"1/7/25, 8:32:02 PM");</script>
