@@ -1,4 +1,6 @@
 # Home Price Prediction Project
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/b5bc8c41-88fb-4091-8111-d836f2907b44" />
+
 
 ## Overview
 
